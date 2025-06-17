@@ -1,32 +1,35 @@
-# Admin Dashboard
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-A modern and responsive admin dashboard built with React and Vite, featuring a clean and intuitive user interface.
+<p>Welcome to the <b>Admin Dashboard</b> project!</p>
 
-## UserName & Password
+<h3>🛠️ Tech Stack</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+</p>
 
-- Email ID -: admin@gmail.com (CaseSensitive)
-- Password -: pass (CaseSensitive)
+<h3>🔐 Credentials</h3>
+<ul>
+  <li>Email ID: <code>admin@gmail.com</code> (case-sensitive)</li>
+  <li>Password: <code>pass</code> (case-sensitive)</li>
+</ul>
 
-## Features
+<h3>✨ Features</h3>
+<ul>
+  <li>📱 Responsive Design</li>
+  <li>🔐 Protected Routes with Authentication</li>
+  <li>🎨 Modern UI/UX</li>
+  <li>📨 Inbox System</li>
+  <li>⭐ Favorites Management</li>
+  <li>🚀 Fast Performance with Vite</li>
+  <li>🎯 Intuitive Navigation</li>
+</ul>
 
-- 📱 Responsive Design
-- 🔐 Protected Routes with Authentication
-- 🎨 Modern UI/UX
-- 📨 Inbox System
-- ⭐ Favorites Management
-- 🚀 Fast Performance with Vite
-- 🎯 Intuitive Navigation
+<h3>📁 Project Structure</h3>
 
-## Tech Stack
-
-- React.js
-- Vite
-- CSS3 (Custom Styling)
-- React Router DOM (for routing)
-
-## Project Structure
-
-```
+<pre>
 src/
 ├── components/
 │   ├── Home/
@@ -38,28 +41,27 @@ src/
 │   ├── Homepage.jsx
 │   └── Login.jsx
 └── assets/
-```
+</pre>
 
-## Getting Started
+<h3>🚀 Getting Started</h3>
 
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-4. Open your browser and navigate to the local server address shown in your terminal
+<ol>
+  <li>Clone the repository</li>
+  <li>Install dependencies:
+    <pre><code>npm install</code></pre>
+  </li>
+  <li>Start the development server:
+    <pre><code>npm run dev</code></pre>
+  </li>
+  <li>Open your browser and navigate to the local server address shown in your terminal</li>
+</ol>
 
-## Development
+<h3>⚙️ Development Perks</h3>
+<ul>
+  <li>Hot Module Replacement (HMR)</li>
+  <li>ESLint Integration</li>
+  <li>Fast refresh</li>
+</ul>
 
-The project is built using Vite for optimal development experience with features like:
-- Hot Module Replacement (HMR)
-- ESLint Integration
-- Fast refresh
-
-## License
-
-This project is licensed under the MIT License.
+<h3>📄 License</h3>
+<p>This project is licensed under the MIT License.</p>
