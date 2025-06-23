@@ -10,6 +10,10 @@
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
 </p>
 
+## Preview
+
+![Preview](public/Vertex.gif)
+
 <h3>🔐 Credentials</h3>
 <ul>
   <li>Email ID: <code>admin@gmail.com</code> (case-sensitive)</li>
